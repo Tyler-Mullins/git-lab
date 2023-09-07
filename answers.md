@@ -45,7 +45,16 @@ Changes to be committed:
         new file:   README.md
         new file:   answers.md
 
-Changes not staged for commit:
-    (use "git add <file>..." to update what will be committed)
-    (use "git restore <file>..." to discard changes in working directory)
-        modified:   answerd.md
+
+Answe 7:
+
+"On branch master
+nothing to commit, working tree clean"
+
+Answer 8:
+
+"commit ac1d4974dfc0d0d9ef89cf768eec530de6178b5c (HEAD -> master)
+Author: Tyler Mullins <tm186022@ohio.edu>
+Date:   Thu Sep 7 15:49:27 2023 -0400
+
+    Initial commit"
