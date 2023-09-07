@@ -58,3 +58,13 @@ Author: Tyler Mullins <tm186022@ohio.edu>
 Date:   Thu Sep 7 15:49:27 2023 -0400
 
     Initial commit"
+
+Answer 9: 
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   answers.md
+
